@@ -1,0 +1,6 @@
+Percent of the correct sequences included: 	32	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	16
+Percent of the correct sequences included: 	32	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	14
+Percent of the correct sequences included: 	24	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	12
+Percent of the correct sequences included: 	26	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	11
+Percent of the correct sequences included: 	26	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	11
+Percent of the correct sequences included: 	26	Percent of incorrect sequences included: 	0	total clusters included in cluster: 	8
